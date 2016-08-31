@@ -1,0 +1,16 @@
+Why visual and interactive?
+
+Most of the inspiration is derived from "Visual Complex Analysis," an influential mathematics book that easily presents complex ideas through visualization.
+
+More likely than not, when one opens a random modern mathematics text on a random subject, one is confronted by abstract symbolic reasoning that is divorced from one's sensory experience of the world, despite the fact that the very phenomena one is studying were often discovered by appealing to geometric (and perhaps physical) intuition.
+(Needham, 1997)
+
+Numerical linear algebra in particular lends itself easily to visualization; if many linear algebra texts are visual, it should then follow that algorithms based on such ideas can also be visualized.
+
+To use this medium to its full potential, I add interactivity to the graphics. I believe that it breathes life into my work.
+
+On numerical linear algebra
+
+The term "numerical linear algebra" mostly explains itself; it is the study of numerical methods that use linear algebra. Hence, a foundation in linear algebra is strongly recommended, but not required, for understanding the contents of this interactive book. I review ideas from linear algebra that are used in this material, but I omit their derivations for brevity.
+
+That is not to say proofs are ignored entirely in this book. As we will see, healthy portions of both application and theory are necessary in understanding this subject, with diverse applications ranging from artificial intelligence to statistics.
